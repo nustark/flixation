@@ -1,0 +1,40 @@
+{
+  "streams": [
+    {
+      "title": "Sea Dragon Nest",
+      "description": "Hell Mode",
+      "userId": "111032608900021268735",
+      "id": 10
+    },
+    {
+      "title": "Apex Legends",
+      "description": "Tutorial",
+      "userId": "111032608900021268735",
+      "id": 11
+    },
+    {
+      "title": "Pokemon",
+      "description": "Elite Four",
+      "userId": "111032608900021268735",
+      "id": 12
+    },
+    {
+      "title": "Counter Strike: Global Offensive",
+      "description": "Ladder Matches",
+      "userId": "111032608900021268735",
+      "id": 13
+    },
+    {
+      "title": "OSRS",
+      "description": "God Wars Dungeon Bandos Run",
+      "userId": "111032608900021268735",
+      "id": 14
+    },
+    {
+      "title": "Hearthstone",
+      "description": "Road to Legend 1-100",
+      "userId": "111032608900021268735",
+      "id": 15
+    }
+  ]
+}
